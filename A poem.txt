@@ -4,6 +4,7 @@ purple
 pink
 green
 yellow
+unicorn
 blue
 read
 These are the color of a ranbow.
