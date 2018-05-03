@@ -3,6 +3,7 @@ the rainbow
 purple
 pink
 green
+yellow
 blue
 read
 These are the color of a ranbow.
